@@ -1,6 +1,6 @@
 public class Trojuhelnik {
 	
-	// za prve co musis udelat je ye dac ''crl Shift F'' aby v tom byl prehled 
+	// za prve co musis udelat je ze das ''crl Shift F'' aby v tom byl prehled 
 
 	double a;
 	double b;
@@ -90,18 +90,18 @@ if (a == c && a != b || a == b && a != c || b == c && b != a ) {
 	
 	//if(a+b <=c || a+c <=b || b+c<=a) {
 		
-	//	throw new TrojuhelnikException("Trojúhelníková nerovnost");
+	//	throw new TrojuhelnikException("TrojÃºhelnÃ­kovÃ¡ nerovnost");
 	//}
 		
 		
 //	if (a <= 0 || b <= 0 || c <= 0) {
-	//	throw new TrojuhelnikException("Jedna nebo více stran jsou záporné!!");
+	//	throw new TrojuhelnikException("Jedna nebo vÃ­ce stran jsou zÃ¡pornÃ©!!");
 
 
 	
 
 
 //	} else {
-	//	throw new TrojuhelnikException("Trojùhelník není rovnoramenný nebo rovnostranný!!");
+	//	throw new TrojuhelnikException("TrojÅ¯helnÃ­k nenÃ­ rovnoramennÃ½ nebo rovnostrannÃ½!!");
 	//}
 //
